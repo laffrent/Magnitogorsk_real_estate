@@ -9,8 +9,13 @@ lxml==4.9.2
 #undetected-chromedriver==3.5.0
 openpyxl==3.1.2 #test import for HR
 nbformat>=4.2.0
-#spacy
+tqdm==4.66.1
 selenium
 scikit-learn
-#nltk
+geopy==2.3.0
 wordcloud==1.9.2
+phik==0.12.3
+folium==0.14.0
+
+catboost==1.2
+scikit_learn==1.2.2
